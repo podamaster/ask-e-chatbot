@@ -52,7 +52,7 @@ vercel
 	2.	Run the following commands:
 
 pkg install nodejs
-git clone https://github.com/@podamaster/ask-e-chatbot.git
+git clone https://github.com/podamaster/ask-e-chatbot.git
 cd ask-e-chatbot
 npm install
 node server.js
