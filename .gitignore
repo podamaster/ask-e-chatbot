@@ -1,0 +1,24 @@
+# Node.js dependencies  
+node_modules/  
+package-lock.json  
+
+# Environment variables (Sensitive files)  
+.env  
+
+# Logs & Debug Files  
+*.log  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+
+# OS-Specific Files  
+.DS_Store  
+Thumbs.db  
+
+# Build Files (If using Vercel or other hosting)  
+dist/  
+build/  
+
+# IDE & Editor Config Files  
+.vscode/  
+.idea/  
