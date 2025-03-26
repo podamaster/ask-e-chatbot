@@ -1,0 +1,12 @@
+{
+  "name": "ask-e",
+  "version": "1.0.0",
+  "description": "An AI chatbot inspired by ChatGPT, Gemini, and Claude",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
