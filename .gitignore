@@ -2,23 +2,14 @@
 node_modules/  
 package-lock.json  
 
-# Environment variables (Sensitive files)  
+# Environment variables  
 .env  
 
-# Logs & Debug Files  
+# Logs  
 *.log  
 npm-debug.log*  
 yarn-debug.log*  
-yarn-error.log*  
 
-# OS-Specific Files  
+# OS-specific files  
 .DS_Store  
 Thumbs.db  
-
-# Build Files (If using Vercel or other hosting)  
-dist/  
-build/  
-
-# IDE & Editor Config Files  
-.vscode/  
-.idea/  
